@@ -8,3 +8,4 @@ inboundCall:
 holidaySchedule:
     scheduleGroup: Claims_Schedule_Group
     timezone: America/Toronto
+tts: Thank you for calling Wawanesa Claims. Your call may be recorded.
