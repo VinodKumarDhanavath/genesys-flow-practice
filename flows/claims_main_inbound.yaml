@@ -4,7 +4,7 @@ inboundCall:
   defaultLanguage: en-us
   startUpRef: ./menus/menu[Main Menu_10]
   initialGreeting:
-    tts: Thank you for calling claims.
+  tts: Welcome to Claims. Please have your policy number ready.
 holidaySchedule:
     scheduleGroup: Claims_Schedule_Group
     timezone: America/Toronto
