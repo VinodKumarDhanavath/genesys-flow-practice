@@ -5,3 +5,6 @@ inboundCall:
   startUpRef: ./menus/menu[Main Menu_10]
   initialGreeting:
     tts: Thank you for calling claims.
+holidaySchedule:
+    scheduleGroup: Claims_Schedule_Group
+    timezone: America/Toronto
