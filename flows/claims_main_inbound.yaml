@@ -1,0 +1,7 @@
+inboundCall:
+  name: Claims_Main_Inbound
+  description: Main claims line entry point
+  defaultLanguage: en-us
+  startUpRef: ./menus/menu[Main Menu_10]
+  initialGreeting:
+    tts: Thank you for calling claims.
